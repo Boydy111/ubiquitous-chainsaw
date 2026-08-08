@@ -14,7 +14,7 @@
       "achievements": true
     },
     "loot": {
-      "minimumValue": 0
+      "minimumValue": 150000
     },
     "screenshots": {
       "enabled": true,
